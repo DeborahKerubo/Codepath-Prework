@@ -9,7 +9,7 @@ Time spent: **30** minutes spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
 - [ ]  Tapping the button changes the first label text changes to a random color
 
@@ -21,10 +21,31 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-
 ## Notes
+## Apps
+Pinterest:
+1. Pinboards:  Users  can create personalized pinboards to save and organize content around specific themes or interests.
+2. Visual Discovery: Users can  discover new content based on images they've saved or liked.
+3. Collaborative Boards: Users can invite others to collaborate on boards, fostering a sense of community and shared interests.
+
+Spotify:
+1. Music Streaming: Spotify offers a vast library of songs, albums, and playlists for on-demand streaming.
+2. Personalized Playlists: Personalized playlists, such as Discover Weekly and Release Radar, are generated based on user preferences and listening history.
+4. Offline Mode: Spotify allows users to download music and podcasts for offline listening.
+favorite songs, playlists, and activities with friends through social media integration.
+ Reddit:
+1. Subreddits: Content is organized into subreddits, creating niche communities for discussions on specific topics.
+2. Upvoting and Downvoting: Users can express their opinions on posts and comments by upvoting or downvoting, contributing to content visibility.
+3. Moderation Tools: Robust moderation tools help maintain community standards and combat spam.
+
+## APP Brainstorming
+-Application tracker app
+I am interested in building an app that is a tool for job seekers. The app would help track the applications one has sent and store data on the number of applications sent and the steps in the process.It would have a defined data model to represent a job application which would include fields like job title, company, date applied, application status, and links (resume, LinkedIn URL, transcript, etc.).The app would have a user interface where users view and can update the information. Moreover, it would implement notification features for upcoming deadlines, interviews and follow-ups.It would also integrate built in functions to keep track/detect application links when one has submitted a resume or a LinkedIn link or transcript and use this as a way to update the user’s information.
 
 Describe any challenges encountered while building the app.
+The instructions were easy to follow through.
+
+
 
 ## License
 
